@@ -1,0 +1,15 @@
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\bin\Debug\net6.0\HomeWork34.exe
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\bin\Debug\net6.0\HomeWork34.deps.json
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\bin\Debug\net6.0\HomeWork34.runtimeconfig.json
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\bin\Debug\net6.0\HomeWork34.dll
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\bin\Debug\net6.0\HomeWork34.pdb
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\HomeWork34.csproj.AssemblyReference.cache
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\HomeWork34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\HomeWork34.AssemblyInfoInputs.cache
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\HomeWork34.AssemblyInfo.cs
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\HomeWork34.csproj.CoreCompileInputs.cache
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\HomeWork34.dll
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\refint\HomeWork34.dll
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\HomeWork34.pdb
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\HomeWork34.genruntimeconfig.cache
+C:\Users\e.kolyagina\Desktop\Lesson5\HomeWork34\obj\Debug\net6.0\ref\HomeWork34.dll
